@@ -20,7 +20,7 @@ const Navebar = () => {
                         {manuItems}
                     </ul>
                 </div>
-                <Link to='/'><a className="btn btn-ghost normal-case text-xl">daisyUI</a></Link>
+                <Link to='/'><a className="btn btn-ghost normal-case text-xl">Monirujjaman</a></Link>
             </div>
             <div className="navbar-end hidden lg:flex">
                 <ul className="menu menu-horizontal p-0">

@@ -8,6 +8,7 @@ import Projects from './Pages/Projects/Projects';
 import About from './Pages/About/About';
 import Blog from './Pages/Blog/Blog';
 import Contact from './Pages/Contact/Contact';
+import Footer from './Pages/Footer/Footer';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path='/contact' element={<Contact />} />
         <Route path='/datanotfound' element={<DataNotFound />} />
       </Routes>
+      <Footer />
     </div>
   );
 }
