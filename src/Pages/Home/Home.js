@@ -8,7 +8,7 @@ import Projects from '../Projects/Projects';
 const Home = () => {
     return (
         <>
-            <div className="hero min-h-screen">
+            <div className="hero w-11/12 mx-auto mt-5 rounded-lg bg-base-200">
                 <div className="hero-content flex-col lg:flex-row-reverse">
                     <img className='sm:w-5/12 lg:ml-20' src={mamun_pic} />
                     <div className='sm:inline-block align-middle'>
