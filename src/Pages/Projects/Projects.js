@@ -7,7 +7,7 @@ const Projects = () => {
     console.log(projects)
     return (<>
         <h1 className='text-center p-3 font-bold my-8 text-3xl'>Recent Projects</h1>
-        <div className='grid sm:grid-cols-1 md:grid-cols-3 w-11/12 mx-auto mt-4'>
+        <div className='grid sm:grid-cols-1 md:grid-cols-3 w-11/12 mx-auto mt-4 bg-base-200'>
             {projects.map(project => <SingelProject key={project.id} project={project} />)}
         </div>
     </>);

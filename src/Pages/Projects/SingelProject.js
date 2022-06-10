@@ -6,7 +6,7 @@ const SingelProject = ({ project }) => {
     const [details, setDetails] = useState();
     console.log(details)
     const { name, img, description, script, live_site, code_link, id } = project;
-
+    console.log(img)
 
     return (
         <div className="card w-96 bg-base-100 shadow-xl ">

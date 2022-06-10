@@ -17,14 +17,14 @@ const Contact = () => {
             });
     };
     return (
-        <div className=' bg-base-200'>
+        <div className='w-11/12 mx-auto bg-base-200 rounded-lg mb-4'>
             <h1 className="text-4xl font-bold uppercase text-center mt-5 py-5">Let's talk !</h1>
             <div className="hero mt-0">
                 <div className="hero-content flex-col lg:flex-row-reverse">
                     <div className="text-center lg:text-left lg:ml-5">
                         <h1 className="text-xl font-bold uppercase py-3">Contact With Me</h1>
                         <p className="py-1 text-lg">Gaibandha, Rangpur, Bangladesh.</p>
-                        <p className="py-1"><span className='text-lg font-bold'>Gmail :</span> monirujjamanmamun2357@gmail.com</p>
+                        <p className="py-1"> monirujjamanmamun2357@gmail.com</p>
                         <p className="py-1 text-lg">Phone : (+088) 01763-052357</p>
                     </div>
 
