@@ -11,7 +11,7 @@ const SingelProject = ({ project }) => {
     return (
         <div className="card w-96 bg-base-100 shadow-xl ">
             <div className='h-96 carousel carousel-vertical rounded-box'>
-                <figure><img src={industry} className='carousel-item h-full' alt="Shoes" /></figure>
+                <figure><img src={img} className='carousel-item h-full' alt="Shoes" /></figure>
             </div>
             <div className="card-body">
                 <h2 className="card-title">{name}</h2>

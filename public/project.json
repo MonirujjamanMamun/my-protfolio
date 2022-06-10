@@ -2,10 +2,10 @@
     {
         "id": 1,
         "name": "Bangali Industry",
-        "img": "https://ibb.co/xS0Xxh2",
-        "img_home": "https://ibb.co/GFHLc6F",
-        "img_mid": "https://ibb.co/3TBBF4v",
-        "img_last": "https://ibb.co/yQc2Q4x",
+        "img": "https://i.ibb.co/7J5jsvS/industry-full.png",
+        "img_home": "https://i.ibb.co/yV41W9V/bangali-industry-1.png",
+        "img_mid": "https://i.ibb.co/nwzz16B/bangali-industry-2.png",
+        "img_last": "https://i.ibb.co/mcVpcNP/bangali-industry-3.png",
         "description": [
             "It is Mern Stack Project",
             "Payment Method are integrated",
@@ -20,10 +20,10 @@
     {
         "id": 2,
         "name": "Monitor Warehouse",
-        "img": "https://ibb.co/pWsQbtz",
-        "img_home": "https://ibb.co/y5NRmfz",
-        "img_mid": "https://ibb.co/Jd1x25m",
-        "img_last": "https://ibb.co/SnqVCpw",
+        "img": "https://i.ibb.co/SQ1c5hn/monitor-w-full.png",
+        "img_home": "https://i.ibb.co/Mpghy2z/monitor-1.png",
+        "img_mid": "https://i.ibb.co/pP7WZJb/monitor-2.png",
+        "img_last": "https://i.ibb.co/G2gCSjQ/monitor-3.png",
         "description": [
             "It is MERN Stack Project.",
             "It is fully responsive website",
@@ -38,10 +38,10 @@
     {
         "id": 3,
         "name": "Tutorial House",
-        "img": "https://ibb.co/F3QkVv3",
-        "img_home": "https://ibb.co/WzzqLd7",
-        "img_mid": "https://ibb.co/1XwRWtZ",
-        "img_last": "https://ibb.co/tzsrV36",
+        "img": "https://i.ibb.co/1QCY6VQ/tutorial-full.png",
+        "img_home": "https://i.ibb.co/z22jzLC/tutorial-site-pic1.png",
+        "img_mid": "https://i.ibb.co/hdt2zJs/tutorial-site-2.png",
+        "img_last": "https://i.ibb.co/NrjBc7q/tutorial-site-3.png",
         "description": [
             "It is fully authenticated by Google authentication",
             "In this website Student can book any tuition in online after sing in",
