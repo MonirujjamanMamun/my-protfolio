@@ -18,7 +18,7 @@ const Contact = () => {
     };
     return (
         <div className=' bg-base-200'>
-            <h1 className="text-4xl font-bold uppercase text-center mt-5 py-5">Lets talk !</h1>
+            <h1 className="text-4xl font-bold uppercase text-center mt-5 py-5">Let's talk !</h1>
             <div className="hero mt-0">
                 <div className="hero-content flex-col lg:flex-row-reverse">
                     <div className="text-center lg:text-left lg:ml-5">
