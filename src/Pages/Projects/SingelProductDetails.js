@@ -23,7 +23,7 @@ const SingelProductDetails = () => {
 
         <div div class="hero min-h-screen bg-base-200" >
             <div class="hero-content flex-col lg:flex-row">
-                <img src="https://api.lorem.space/image/movie?w=260&h=400" class="max-w-sm rounded-lg shadow-2xl" />
+                <img src="https://api.lorem.space/image/movie?w=260&h=400" className="max-w-sm rounded-lg shadow-2xl" />
                 <div>
                     <h2 className="card-title">{projectDetails?.name}</h2>
                     <p> <span className='font-bold'>Based On Script :</span> <span className='text-sm'>{projectDetails?.script}</span></p>
