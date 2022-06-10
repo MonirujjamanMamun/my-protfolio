@@ -9,6 +9,7 @@ import About from './Pages/About/About';
 import Blog from './Pages/Blog/Blog';
 import Contact from './Pages/Contact/Contact';
 import Footer from './Pages/Footer/Footer';
+import SingelProductDetails from './Pages/Projects/SingelProductDetails';
 
 function App() {
   return (
@@ -17,7 +18,9 @@ function App() {
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/about' element={<About />} />
-        <Route path='/projects' element={<Projects />} />
+        <Route path='/projects' element={<Projects />}>
+          <Route path='projectdetails' element={<SingelProductDetails />} />
+        </Route>
         <Route path='/blog' element={<Blog />} />
         <Route path='/contact' element={<Contact />} />
         <Route path='/datanotfound' element={<DataNotFound />} />
