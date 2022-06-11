@@ -1,6 +1,6 @@
 import React from 'react';
 import mamun_pic from '../../Image/mamun-bg1.png';
-import mamun_resumi from '../../Image/Monirujjaman final Resume-02 .pdf';
+import mamun_resumi from '../../Image/Mamun final Resume .pdf';
 import About from '../About/About';
 import Contact from '../Contact/Contact';
 import Projects from '../Projects/Projects';

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
-import industry from '../../Image/industry_full.png'
+
 
 const SingelProject = ({ project }) => {
     const [details, setDetails] = useState();
